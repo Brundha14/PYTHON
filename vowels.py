@@ -4,4 +4,4 @@ print(a)
 if(a in b):
 	print("vowel")
 else:
-	print"Constant"
+	print"(Constant")
