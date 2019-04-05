@@ -1,4 +1,4 @@
 a=input("")
 print (a)
 for i in range(a):
-  print ("hello")
+  print ("Hello")
